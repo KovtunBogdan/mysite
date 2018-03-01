@@ -1,0 +1,26 @@
+.global {
+  margin-top:30px;
+}
+.progress {
+  margin-top:10px;
+}
+.alert {
+  margin-top: 10px;
+}
+.gl2 {
+  margin-top:10px;
+}
+.infoimport {
+  margin-top:8px;
+  margin-left:18%;
+}
+th.textsm {
+  font-size:14px;
+  font-weight:normal;
+}
+table td {
+  text-align: center;
+}
+.text-sm {
+  font-size: 13px;
+}
