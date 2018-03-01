@@ -24,3 +24,6 @@ table td {
 .text-sm {
   font-size: 13px;
 }
+.table {
+  overflow-x:scroll;
+}
